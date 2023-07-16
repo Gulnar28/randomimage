@@ -1,1 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
 
+   img{
+    width:100px;
+    height:100px;
+    object-fit: cover;
+    margin:11px;
+    margin-left:35px;
+    margin-top:51px; 
+}
+
+  button{
+   
+    background-color: blueviolet;
+    color:white;
+    margin-top: 51px;
+    margin-left:81vh;
+    padding:15px;
+    font-size:14px;
+    border-radius:11px;
+    border-color: blueviolet;
+}
